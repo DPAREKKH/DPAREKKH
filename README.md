@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DPAREKKH
+- 👋 Hi, I’m @Dhwarkesh_Parekh
 - 👀 I’m interested in playing games and making games.
 - 🌱 I’m currently learning HTML, Java, Python & C++
 - 💞️ I’m looking to collaborate on ...
